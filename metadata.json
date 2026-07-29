@@ -1,0 +1,6 @@
+{
+  "name": "Smart Store Inventory Management System",
+  "description": "Full-stack Store Inventory Management System with POS billing, Stock & Purchase Management, Analytics, Barcode generation, and Multi-role Access Control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
